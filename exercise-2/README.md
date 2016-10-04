@@ -6,9 +6,9 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-|**CSE143**|*Computer Programming II*|Adam Blank|
+| **CSE143**  | *Computer Programming II* | Adam Blank |
 -------------------------------------------------
-|**HCDE310**|*Intro to Sys Des & Tech*|Sean Munson|
+| **HCDE310** | *Intro to Sys Des & Tech* | Sean Munson |
 --------------------------------------------------
-|**INFO200**|*Tech Foundations*|Michael Freeman|
+| **INFO200** | *Tech Foundations*        | Michael Freeman |
 ------------------------------------------------
