@@ -11,11 +11,13 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 ### 'cd' - Change Directory
-'$pwd'
-'~/Documents'
-'$ cd ~/Documents/INFO201/m3-markdown/exercise-3/README.md'
-'$pwd'
-'~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+Example:
+1. '$pwd'
+2. '~/Documents'
+3. '$ cd ~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+4. '$pwd'
+5. '~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+
 More information about the 'cd' command:
 - Allows for file navigation from terminal
 - can branch out by writing path, or switch parent files with '../'
