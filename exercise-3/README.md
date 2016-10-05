@@ -9,3 +9,13 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+### 'cd' - Change Directory
+'$pwd'
+'~/Documents'
+'$ cd ~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+'$pwd'
+'~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+More information about the 'cd' command:
+- Allows for file navigation from terminal
+- can branch out by writing path, or switch parent files with '../'
