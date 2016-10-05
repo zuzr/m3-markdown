@@ -12,10 +12,15 @@ See `complete` branch for answers.
 
 ### 'cd' - Change Directory
 Example:
+
 1. '$pwd'
+
 2. '~/Documents'
+
 3. '$ cd ~/Documents/INFO201/m3-markdown/exercise-3/README.md'
+
 4. '$pwd'
+
 5. '~/Documents/INFO201/m3-markdown/exercise-3/README.md'
 
 More information about the 'cd' command:
